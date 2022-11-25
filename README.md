@@ -1,2 +1,1 @@
-# Curso-Python-para-Mercado-Financeiro---Trading-com-Dados
-Repositório do Curso - 
+# Repositório do Curso Python para Mercado Financeiro 
